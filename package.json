@@ -1,0 +1,32 @@
+{
+  "name": "301d60-lab-08-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "agent": "^0.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "i": "^0.3.6",
+    "pg": "^7.14.0",
+    "super": "^0.2.3",
+    "superagent": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjblues86/301d60-lab-08-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjblues86/301d60-lab-08-back-end/issues"
+  },
+  "homepage": "https://github.com/jjblues86/301d60-lab-08-back-end#readme"
+}
